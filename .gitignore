@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+06-User-Authentication-API/users.json
+07-Notes-App-Backend/notes.json
